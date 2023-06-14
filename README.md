@@ -24,6 +24,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunoiahyunseo)](https://github.com/eunoiahyunseo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunoiahyunseo&layout=compact)](https://github.com/eunoiahyunseo/github-readme-stats)
 
 
